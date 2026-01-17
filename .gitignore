@@ -40,8 +40,8 @@ build/
 extracted_text.txt
 model.pkl
 training_data/
-"Entrenamiento y ejemplos/"
-"Nueva carpeta/"
+Entrenamiento y ejemplos/
+Nueva carpeta/
 
 # Binary files
 *.png
