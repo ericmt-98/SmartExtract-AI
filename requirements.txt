@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+paddlepaddle
+paddleocr
+spacy
+scikit-learn
+pydantic
+pdfplumber
+requests
+structlog
+pytest
+httpx

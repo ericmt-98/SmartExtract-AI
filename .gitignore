@@ -1,0 +1,50 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Environment
+.env
+.env.local
+
+# Project specific
+extracted_text.txt
+model.pkl
+training_data/
+"Entrenamiento y ejemplos/"
+"Nueva carpeta/"
+
+# Binary files
+*.png
+*.jpg
+*.jpeg
+*.pdf
